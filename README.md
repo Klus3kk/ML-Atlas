@@ -6,6 +6,7 @@ This repository contains a collection of fundamental and advanced machine learni
 * Supervised Learning
 * Unsupervised Learning
 * Semi-Supervised Learning
+* Self-Supervised Learning
 * Reinforcement Learning
 * Neural Networks
 * Ensemble Methods
