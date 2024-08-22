@@ -2,6 +2,8 @@
 ## Description
 This repository contains a collection of fundamental and advanced machine learning algorithms, along with detailed explanations, implementations, and use cases. Whether you're a beginner or an experienced practitioner, this repository aims to provide comprehensive resources to help you understand and apply various machine learning techniques.
 
+The repository is regularly updated.
+
 ## Categories Covered
 * Supervised Learning
 * Unsupervised Learning
