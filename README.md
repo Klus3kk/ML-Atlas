@@ -16,3 +16,4 @@ This repository contains a collection of fundamental and advanced machine learni
 * Anomaly Detection
 * Natural Language Processing
 * Model Evaluation and Selection
+* Errors
