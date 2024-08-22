@@ -1,16 +1,13 @@
-# Supervised Learning
-## Overview
-Unsupervised learning is a type of machine learning where the model is trained on data that is not labeled. Unlike supervised learning, where the goal is to predict an output based on input-output pairs, unsupervised learning seeks to uncover hidden patterns, structures, or relationships within the data. This approach is particularly useful when working with large datasets where manual labeling is impractical or impossible.
+# Unsupervised Learning
 
-Unsupervised learning algorithms are often used for clustering, dimensionality reduction, anomaly detection and association rule learning. They help in understanding the underlying structure of the data, which can be leveraged in various applications such as customer segmentation, image compression, and feature extraction.
+Unsupervised learning is a machine learning paradigm where the model is trained on unlabeled data. The model explores the data to find hidden patterns or intrinsic structures without any predefined labels. It is widely used in clustering, association, and dimensionality reduction tasks.
 
-### Algorithms Covered in This Category
-* k-Means Clustering
-* Hierarchical Clustering
-* DBSCAN
-* Principal Component Analysis (PCA)
-* Independent Component Analysis (ICA)
-* t-Distributed Stochastic Neighbor Embedding (t-SNE)
-* Singular Value Decomposition (SVD)
+## Subtopics Covered:
 
-
+- [k-Means Clustering](./kMC/README.md)
+- [Hierarchical Clustering](./Hierarchical_Clustering/README.md)
+- [DBSCAN](./DBSCAN/README.md)
+- [Principal Component Analysis (PCA)](./PCA/README.md)
+- [Independent Component Analysis (ICA)](./ICA/README.md)
+- [t-Distributed Stochastic Neighbor Embedding (t-SNE)](./t-SNE/README.md)
+- [Singular Value Decomposition (SVD)](./SVD/README.md)
