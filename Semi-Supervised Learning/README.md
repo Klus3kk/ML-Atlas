@@ -1,12 +1,9 @@
-# Supervised Learning
-## Overview
-Semi-supervised learning is a type of machine learning that sits between supervised and unsupervised learning. It uses a small amount of labeled data along with a larger pool of unlabeled data to improve learning accuracy. This approach is particularly valuable in scenarios where labeled data is scarce or expensive to obtain, but unlabeled data is abundant.
+# Semi-Supervised Learning
 
-Semi-supervised learning algorithms leverage the structure in the unlabeled data to provide additional information, enhancing the learning process. This allows models to achieve better generalization by making use of the unlabeled data, which is often closer in distribution to real-world scenarios.
+Semi-Supervised Learning is a machine learning approach that lies between supervised and unsupervised learning. It leverages a small amount of labeled data along with a large amount of unlabeled data during training. This method is particularly useful when labeling data is expensive or time-consuming, but large volumes of unlabeled data are readily available.
 
-### Algorithms Covered in This Category
-* Self-training
-* Co-training
-* Multi-view Learning
+## Subtopics Covered:
 
-
+- [Self-training](./Self-training/README.md)
+- [Co-training](./Co-training/README.md)
+- [Multi-view Learning](./Multi-view_learning/README.md)
