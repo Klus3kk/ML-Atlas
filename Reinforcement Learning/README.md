@@ -1,12 +1,12 @@
 # Reinforcement Learning
-## Overview
-Reinforcement Learning (RL) is a type of machine learning where an agent learns to make decisions by interacting with an environment. The agent takes actions in the environment to maximize cumulative rewards over time. Unlike supervised learning, RL does not require labeled data and instead relies on trial and error to discover the best strategies. The key components in RL include the agent, environment, actions, states, and rewards. RL has been widely used in various applications, from game playing to robotics and autonomous systems.
 
-### Algorithms Covered in This Category
-* Q-Learning
-* Deep Q-Networks (DQN)
-* Policy Gradient Methods
-* Actor-Critic Methods
-* Monte Carlo Methods
-* SARSA
+Reinforcement Learning (RL) is a machine learning paradigm where an agent interacts with an environment, learning to take actions that maximize cumulative rewards. It’s used in domains such as robotics, gaming, and autonomous systems.
 
+## Subtopics Covered:
+
+- [Q-Learning](./Q-Learning/README.md)
+- [Deep Q-Networks (DQN)](./DQN/README.md)
+- [Policy Gradient Methods](./Policy_Gradient_Methods/README.md)
+- [Actor-Critic Methods](./Actor-Critic/README.md)
+- [Monte Carlo Methods](./Monte_Carlo/README.md)
+- [SARSA](./SARSA/README.md)
