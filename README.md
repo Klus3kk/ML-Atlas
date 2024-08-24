@@ -5,17 +5,17 @@ This repository contains a collection of fundamental and advanced machine learni
 The repository is regularly updated.
 
 ## Categories Covered
-* Supervised Learning
-* Unsupervised Learning
-* Semi-Supervised Learning
-* Self-Supervised Learning
-* Reinforcement Learning
-* Neural Networks
-* Ensemble Methods
-* Dimensionality Reduction
-* Optimization Algorithms
-* Feature Selection and Extraction
-* Anomaly Detection
-* Natural Language Processing
-* Model Evaluation and Selection
-* Errors
+* Supervised Learning,
+* Unsupervised Learning,
+* Semi-Supervised Learning,
+* Self-Supervised Learning,
+* Reinforcement Learning,
+* Neural Networks,
+* Ensemble Methods,
+* Dimensionality Reduction,
+* Optimization Algorithms,
+* Feature Selection and Extraction,
+* Anomaly Detection,
+* Natural Language Processing,
+* Model Evaluation and Selection,
+* Errors.
