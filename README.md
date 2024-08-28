@@ -17,4 +17,4 @@ The repository is regularly updated.
 * Anomaly Detection,
 * Natural Language Processing,
 * Model Evaluation and Selection,
-* Errors.
+* Errors
